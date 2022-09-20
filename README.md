@@ -1,8 +1,11 @@
 # Cars-Analysis 
 ## by Alex Mogengo
 
+# Overview
+This analysis seeks to uncover insights about cars that were manufactured in the USA, Japan, and Europe between 1970 and 1980. It seeks to uncover insights on the consumption rates of the cars, their power, acceleration and the number of cylinder trends over the years for the different regions.
+
 # About the Dataset
-This dataset contains data about cars owned by a logistics company. It has information for 398 cars, each with details on fuel consumption in terms of miles per gallon (mpg), number of engine cylinders, displacement volume, horsepower, weight of the car, acceleration and car model year.
+This dataset contains data about cars manufactured in the USA, Japan and Europe. It has information for 398 cars, each with details on fuel consumption in terms of miles per gallon (mpg), number of engine cylinders, displacement volume, horsepower, weight of the car, acceleration and car model year.
 
 # Summary of the findings
 - Cars with high number of cylinders had high fuel consumption rate while those with low number of cylinders had a low consumption rate.
